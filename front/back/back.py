@@ -1,1 +1,0 @@
-print("Añadimos info a back")
